@@ -8,3 +8,8 @@ Read more at [omarchy.org](https://omarchy.org).
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Install
+
+```ps
+wget -qO- https://raw.githubusercontent.com/0x3133/omarchy/refs/heads/main/boot.sh | bash
+```
