@@ -101,7 +101,7 @@ keywords = ["walker", "github"]
 
 [[builtins.bookmarks.entries]]
 label = "Omarchy - Github"
-url = "https://github.com/basecamp/omarchy"
+url = "https://github.com/0x3133/omarchy"
 keywords = ["omarchy", "github"]
 
 [[builtins.bookmarks.entries]]
