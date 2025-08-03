@@ -13,3 +13,37 @@ Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT)
 ```ps
 wget -qO- https://raw.githubusercontent.com/0x3133/omarchy/refs/heads/main/boot.sh | bash
 ```
+
+## Hotkeys
+
+You can see all the main keyboard bindings by hitting `Super + K`.
+
+`Super + Ctrl + ...` shortcuts to manipulate workspaces.
+`Super + Shift + ...` shortcuts to manipulate windows (but not always).
+`Super + Alt + ...` shortcuts to manipulate groups.
+
+### Navigating
+
+| Hotkey        | Function      |
+| ------------- | ------------- |
+| `Super + Space`  | Application index and launcher  |
+| `Super + Shift + Q`	| Close window  |
+| `Super + Ctrl + 1/2/3/4` | Jump to workspace |
+| `Super + Ctrl + Arrow Left` | Switch to workspace on the left |
+| `Super + Ctrl + Arrow Righ` | Switch to workspace on the right |
+| `Super + Shift + Ctrl + 1/2/3/4` | Move window to workspace |
+| `Super + Alt + Space` | Toggle grouping |
+| `Super + Alt + Arrow` | Add/remove window to/from group in direction of arrow |
+| `Super + Alt + Left` | Swith to group tab on the left |
+| `Super + Alt + Right` | Swith to group tab on the right |
+| `Ctrl + 1/2/3/..` | Jump to browser tab |
+| `Super + Shift + F11` | Go full screen |
+| `Super + Shift + J` | Change split direction |
+| `Super + Shift + P` | Toggle pseudo |
+| `Super + Shift + V` | Toggle foating window |
+| `Super + Arrow` | Move focus to window in direction of arrow |
+| `Super + Shift + Arrow` | Swap window with another in direction of arrow |
+| `Super + Equal` | Grow windows to the left |
+| `Super + Minus` | Grow windows to the right |
+| `Super + Shift + Equal` | Grow windows to the bottom |
+| `Super + Shift + Minus` | Grow windows to the top |
