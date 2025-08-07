@@ -18,9 +18,9 @@ wget -qO- https://raw.githubusercontent.com/0x3133/omarchy/refs/heads/main/boot.
 
 You can see all the main keyboard bindings by hitting `Super + K`.
 
-`Super + Ctrl + ...` shortcuts to manipulate workspaces.
-`Super + Shift + ...` shortcuts to manipulate windows (but not always).
-`Super + Alt + ...` shortcuts to manipulate groups.
+* `Super + Ctrl + ...` shortcuts to manipulate workspaces.
+* `Super + Shift + ...` shortcuts to manipulate windows (but not always).
+* `Super + Alt + ...` shortcuts to manipulate groups.
 
 ### Navigating
 
@@ -53,11 +53,11 @@ You can see all the main keyboard bindings by hitting `Super + K`.
 
 | Hotkey        | Function      |
 | ------------- | ------------- |
-| `Super + Enter`  nautilus| Terminal (alacritty) |
+| `Ctrl + Esc`  | `btop`  |
+| `Super + Enter` | Terminal (alacritty) |
 | `Super + E`  | File Exlorer (nautilus)  |
 | `Super + B`  | Browser (Chromium)  |
 | `Super + M`  | Music (Spotify)  |
-| `Ctrl + Esc`  | `btop`  |
 | `Super + I, S`  | Instant messaging, Signal  |
 | `Super + I, W`  | Instant messaging, Whatsapp  |
 | `Super + A`  | ChatGPT (webapp)  |
