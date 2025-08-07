@@ -47,3 +47,17 @@ You can see all the main keyboard bindings by hitting `Super + K`.
 | `Super + Minus` | Grow windows to the right |
 | `Super + Shift + Equal` | Grow windows to the bottom |
 | `Super + Shift + Minus` | Grow windows to the top |
+
+### Apps
+
+| Hotkey        | Function      |
+| ------------- | ------------- |
+| `Super + Enter`  nautilus| Terminal (alacritty) |
+| `Super + E`  | File Exlorer (nautilus)  |
+| `Super + B`  | Browser (Chromium)  |
+| `Super + M`  | Music (Spotify)  |
+| `Ctrl + Esc`  | `btop`  |
+| `Super + I, S`  | Instant messaging, Signal  |
+| `Super + I, W`  | Instant messaging, Whatsapp  |
+| `Super + A`  | ChatGPT (webapp)  |
+| `Super + Y`  | Youtube (webapp)  |
