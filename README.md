@@ -28,9 +28,10 @@ You can see all the main keyboard bindings by hitting `Super + K`.
 | ------------- | ------------- |
 | `Super + Space`  | Application index and launcher  |
 | `Super + Shift + Q`	| Close window  |
+| `Super + Shift + X`	| Kill window  |
 | `Super + Ctrl + 1/2/3/4` | Jump to workspace |
-| `Super + Ctrl + Arrow Left` | Switch to workspace on the left |
-| `Super + Ctrl + Arrow Righ` | Switch to workspace on the right |
+| `Super + Ctrl + Left/Righ` | Switch to workspace on the left/right |
+| `Super + Ctrl + Shift + Left/Righ` | Move window to workspace on the left/right |
 | `Super + Shift + Ctrl + 1/2/3/4` | Move window to workspace |
 | `Super + Alt + Space` | Toggle grouping |
 | `Super + Alt + Arrow` | Add/remove window to/from group in direction of arrow |
